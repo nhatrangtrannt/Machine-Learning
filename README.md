@@ -32,13 +32,13 @@ This notebook is where I practice projects related to ML with the topics as belo
     - Training set: Email (75% of Email dataset); Testing set: Email (25% of Email dataset) and SMS dataset
     - To conclude, I have some thoughts that I would like to share:
    
-            ●	MultinomialNB performed very well among other classifiers in terms of performance measures and speed.
+        ●	MultinomialNB performed very well among other classifiers in terms of performance measures and speed.
 
-            ●	Because of the imbalanced dataset, we did not achieve a high accuracy for all the models
+        ●	Because of the imbalanced dataset, we did not achieve a high accuracy for all the models
 
-            ●	If I have more time, I will try to report Recall because for this particular spam detection. I feel like this metrics is also important since it is about matter of security, so I’d rather to catch some false detection than letting the spam stays out there.
+        ●	If I have more time, I will try to report Recall because for this particular spam detection. I feel like this metrics is also important since it is about matter of security, so I’d rather to catch some false detection than letting the spam stays out there.
 
-            ●	I notice that the performance in training set (Email) and the testing set (Email) have a very high accuracy because they all came from the Email dataset. However, when it comes to SMS dataset, the dataset was not a good replica of the training set, so when we did a transfer learning, it did not perform very well. 
+        ●	I notice that the performance in training set (Email) and the testing set (Email) have a very high accuracy because they all came from the Email dataset. However, when it comes to SMS dataset, the dataset was not a good replica of the training set, so when we did a transfer learning, it did not perform very well. 
 
-            ●	Lastly, If I have plenty of time, I would retrain the model with a new dataset that is similar to SMS dataset and research in-depth what makes SMS and Email different, what factors, which techniques I should use to solve that, and how the content in each dataset is different when comparing to other.
+        ●	Lastly, If I have plenty of time, I would retrain the model with a new dataset that is similar to SMS dataset and research in-depth what makes SMS and Email different, what factors, which techniques I should use to solve that, and how the content in each dataset is different when comparing to other.
 
