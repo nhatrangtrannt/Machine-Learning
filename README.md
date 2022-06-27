@@ -17,10 +17,15 @@ This notebook is where I practice projects related to ML with the topics as belo
     - The main purpose of this experimental studies is to learn about Naïve Bayes Text Classification and Transfer learning by implementing some preprocessing techniques to see the model performance and evaluating different classification methods.
     - Use scikit-learn library to import libraries that have these pre-built classifiers such as:
         ●	SVC – Support Vector Machine Classifier
+        
         ●	Multinomial Naïve Bayes Classifier
+        
         ●	Random Forest Classifier
+        
         ●	K-nearest Neighbors Classifier
+        
         ●	Decision Tree Classifier
+        
         ●	Logistic Regression Classifier
     - Removing punctuations, lowercasing the text, removing stop words, lemmatization, and stemming are the preprocessing techniques that we will be using in this paper to see how it affects the performance and evaluate the impact of different algorithms to the testing set (SMS).
     - Training set: Email (75% of Email dataset); Testing set: Email (25% of Email dataset) and SMS dataset
