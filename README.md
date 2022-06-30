@@ -14,7 +14,6 @@ This notebook is where I practice projects related to ML with the topics as belo
     - Fit the following ML models (Logistic Regression, Decision Tree, Linear Discriminant Analysis, Random Forest Classifier, Support Vector Classifier, KNeighbors Classifier, and Naive Bayes)
 
 2. **IBM HR Analytics Employee Attrition & Performance**
-    - Main objectives:
     - Read csv file and do some EDA
     - Visualize data and relationship between features (numerical vs categorical)
     - Histogram, countplot, distribution plot, pie chart, and heatmap
