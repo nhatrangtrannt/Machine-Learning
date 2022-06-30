@@ -13,7 +13,18 @@ This notebook is where I practice projects related to ML with the topics as belo
     - Using sklearn library
     - Fit the following ML models (Logistic Regression, Decision Tree, Linear Discriminant Analysis, Random Forest Classifier, Support Vector Classifier, KNeighbors Classifier, and Naive Bayes)
 
-2. **Bayesian Network & Naive Bayes Text Classification (Spam Detection)**
+2. **IBM HR Analytics Employee Attrition & Performance**
+    - Main objectives:
+    - Read csv file and do some EDA
+    - Visualize data and relationship between features (numerical vs categorical)
+    - Histogram, countplot, distribution plot, pie chart, and heatmap
+    - Data cleaning (encode categorical features and drop highly-correlated features)
+    - Understand features affecting attrition
+    - Balance the dataset
+    - Fit the following ML models (Logistic Regression, Decision Tree, Linear Discriminant Analysis, Random Forest Classifier, Support Vector Classifier, KNeighbors Classifier, and Naive Bayes)
+    - Dataset link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+3. **Bayesian Network & Naive Bayes Text Classification (Spam Detection)**
     - The main purpose of this experimental studies is to learn about Naïve Bayes Text Classification and Transfer learning by implementing some preprocessing techniques to see the model performance and evaluating different classification methods.
     - Use scikit-learn library to import libraries that have these pre-built classifiers such as:
     
